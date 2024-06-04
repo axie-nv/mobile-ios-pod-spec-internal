@@ -1,0 +1,1 @@
+# NativeVoice internal podspec
